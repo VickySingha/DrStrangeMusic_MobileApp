@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
                     child: Text(
-                      "$playState Themes Musics",
+                      "$playState Random DGM Musics",
                       style: const TextStyle(fontSize: 40),
                     ),
                   )),
